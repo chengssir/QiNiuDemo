@@ -1,0 +1,6 @@
+framework module qiNiuSDK {
+  umbrella header "qiNiuSDK.h"
+
+  export *
+  module * { export * }
+}
